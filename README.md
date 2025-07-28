@@ -74,7 +74,7 @@ The goal of FluxBrick is to democratize construction by making it **affordable, 
 
 ## 📜 License
 
-This repository is licensed under the **Creative Commons Attribution-ShareAlike 4.0 (CC BY-SA 4.0)**.  
+This repository is licensed under the **MIT License**.  
 Use it, remix it, build with it — just credit and share back to help others.
 
 ---
